@@ -2,6 +2,12 @@
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-evenly;
-    align-self: baseline;
-    align-items: baseline;
+}
+.element{
+text-decoration: none;
+color: black;
+
+}
+.element:link{
+color: black;
 }

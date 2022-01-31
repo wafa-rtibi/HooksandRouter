@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+.container{
+    display: flex;
+    color: white;
+    .logo{
+    img{
+    height: 50px;
+    width: 100px;
+    }}
+    .contact{
+        h3{
+        color: white;}
+    }
+}
+p{
+        color: white;
+        font-weight: bold;
+    }
+}
